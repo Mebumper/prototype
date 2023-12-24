@@ -1,9 +1,10 @@
-# Getting Started with Create React App
+# Hello!
+
+We're GATES teams from 1SIMC class. This is our Expo && Final Semester project, called "RedRibbon" a React web app to help mens understand the heart of womens better through interactive conversation quizes. We build RedRibbon using dndkit for React.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
