@@ -1,6 +1,6 @@
 ![image](https://github.com/ooowwwiiilll/Frames/blob/main/banner.png?raw=true)
 
-#Hello!
+# Hello!
 
 We're GATES teams from 1SIMC class. This is our Expo && Final Semester project, called "RedRibbon" a React web app to help mens understand the heart of womens better through interactive conversation quizes. We build RedRibbon using dndkit for React and style it using Tailwind.
 
